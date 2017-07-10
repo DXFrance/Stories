@@ -1,17 +1,4 @@
----
-layout: post
-title:  "Helping Comerso to move their platform to Azure App Services and platform services"
-author: "Julien Corioland"
-author-link: "https://twitter.com/jcorioland"
-#author-image: "{{ site.baseurl }}/images/authors/photo.jpg"
-date:   2016-09-23
-categories: [Azure App Service]
-color: "blue"
-#image: "{{ site.baseurl }}/images/imagename.png" #should be ~350px tall
-excerpt: Microsoft partnered with Comerso to help migrate their platform to Microsoft Azure. In this article we will describe how we lift and shift the different applications in  a three days hackfest and how Comerso can now takes advantage of platform services like Azure App Service, SQL Database, Azure Storage or Azure Redis Cache.
-language: English
-verticals: Other
----
+# Helping Comerso to move their platform to Azure App Services and platform services #
 
 COMERSO is a French start-up created in 2013 whose ambition is to contribute to the fight against food wastage. They are the first French digital and logistic operator of unsold goods and provide an easy and secure donation management solution for the supermarkets and the agri-food industry. 
 Their solution was running on a single virtual machine managed by a third-party company, and Comerso wanted to take control back on it. Doing so, they aimed at being able to manage it themselves, without taking care about the underlying infrastructure and by using platform services like **Azure App Service**, **Azure SQL Database**, **Azure Storage** or **Azure Redis Cache**.
