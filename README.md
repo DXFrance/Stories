@@ -3,6 +3,7 @@
 ## Azure App Service
 
 
+- [Partnering with Cecurity.com to extend and migrate their existing PEA software from an on premise software to a Microsoft Azure online service](_posts/cecurity-app-service.md)
 - [Helping Comerso to move their platform to Azure App Services and platform services](_posts/comerso-azure-app-service.md)
 - [Building a global and secure cloud architecture for the comics creation and distribution platform Allskreen](_posts/allskreen-app-service.md)
 - [Migrating the global and scalable cloud architecture of Mapwize from Heroku](_posts/mapwize-app-service.md)
