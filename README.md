@@ -13,3 +13,4 @@
 
 ## Xamarin & Microsoft Azure
 
+- [Developing and delivering continuously a mobile application on iOS and Android using Xamarin for Natixis](_posts/natixis-xamarin-azure.md)
