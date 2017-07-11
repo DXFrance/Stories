@@ -29,6 +29,11 @@
 - [Enhancing Online Training services with Azure Media Indexer, Cognitive Services and Microsoft Bot Framework](_posts/Mandarine.md)
 
 
+## PowerBI Embedded
+
+- [Using Power BI Embedded, AVANTI-Technologies has migrated theis Telerik reports to Power BI Embedded](_posts/avanti-technologies-powerbi.md)
+
+
 ## Windows Desktop Bridge
 
 
