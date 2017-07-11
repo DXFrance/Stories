@@ -10,3 +10,6 @@
 ## Azure IoT
 
 - [IoT and Machine Learning hackfest with Connit](_posts/connit-iot.md)
+
+## Xamarin & Microsoft Azure
+
