@@ -21,6 +21,7 @@
 
 
 - [Developing and delivering continuously a mobile application on iOS and Android using Xamarin for Natixis](_posts/natixis-xamarin-azure.md)
+- [Helpicto : Migrating to Xamarin forms to be availabe on all stores and all devices](_posts/equadex-xamarin.md)
 
 
 ## Cognitive Services
