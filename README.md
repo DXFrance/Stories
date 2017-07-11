@@ -14,6 +14,7 @@
 
 
 - [IoT and Machine Learning hackfest with Connit](_posts/connit-iot.md)
+- [Learnings from an IoT hackfest with Homerider Systems](_posts/homerider-iot.md)
 
 
 ## Xamarin & Microsoft Azure
